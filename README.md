@@ -1,8 +1,8 @@
 # eCom-website
 
 - Multipage Ecommerce Website Project.
-- Modern CSS techniques with clean design and effects.
+- Modern CSS with clean design and effects.
 - Advanced responsive design using media queries.
 
-HTML CSS & JavaScript
+HTML, CSS, Bootstrap & JavaScript
 
