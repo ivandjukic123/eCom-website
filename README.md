@@ -1,5 +1,7 @@
 # eCom-website
 
+![full-website](https://user-images.githubusercontent.com/98217204/151530577-04d60790-92ae-4668-ad78-add4ed3a6afe.jpg)
+
 - Multipage Ecommerce Website Project.
 - Modern CSS with clean design and effects.
 - Advanced responsive design using media queries.
